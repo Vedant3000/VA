@@ -61,6 +61,14 @@ a:hover{
   position: relative;
   top: 100px;
 }
+
+.seminar{
+  width: auto;  
+  text-align: center;  
+  padding: 15px;
+  max-width=50%;
+}
+  
 .contact-me{
 }
 .bottom-cloud{
